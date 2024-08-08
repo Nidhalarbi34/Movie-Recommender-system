@@ -16,6 +16,17 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 
 
+#  How It Works:
+The recommendation system analyzes various factors to provide personalized suggestions, such as:
+
+User profile and demographics
+
+Search and browsing history
+
+Popular choices among users with similar interests
+
+
+
 # How to run?
 ### STEPS:
 
