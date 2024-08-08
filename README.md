@@ -8,11 +8,11 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="demo/11.png" alt="workflow" width="70%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
+<img src="demo/22.png" alt="workflow" width="70%">
 
-<img src="demo/3.png" alt="workflow" width="70%">
+<img src="demo/33.png" alt="workflow" width="70%">
 
 
 
